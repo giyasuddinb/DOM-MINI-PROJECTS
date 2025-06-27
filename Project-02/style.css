@@ -1,0 +1,33 @@
+body {
+  background-color: #333446;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+#colorBox {
+  height: 200px;
+  width: 200px;
+  border: 2px solid white;
+  margin: 0 auto;
+}
+#colorCode {
+  font-size: 20px;
+}
+#newColorGen {
+  font-size: 16px;
+  cursor: pointer;
+}
+#colorCodeCopyBtn {
+  background-color: rgba(0, 128, 0, 0.783);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+#colorCodeCopyBtn:hover {
+  background-color: rgba(5, 113, 5, 0.756);
+}
