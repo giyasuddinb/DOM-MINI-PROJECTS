@@ -1,0 +1,23 @@
+body {
+  background-color: rgba(17, 16, 16, 0.726);
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: auto;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+#breat-Timer {
+  font-size: 20px;
+}
+
+button {
+  padding: 10px 16px;
+  margin: 0 10px;
+}
